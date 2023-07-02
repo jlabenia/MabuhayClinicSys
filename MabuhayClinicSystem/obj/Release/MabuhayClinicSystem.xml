@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MabuhayClinicSystem
+</name>
+</assembly>
+<members>
+<member name="P:MabuhayClinicSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Administrator_Male_80px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Checked_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Contact_Info_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Customer_38px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Doctor_Female_80px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Folder_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Hypertension_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_clinic_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_diagnosis_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_ID_Verified_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_laboratory_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_log_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_log_65__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_medical_doctor_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_password_85">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_pharmacy_shop_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_print_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.icons8_surgeon_65">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Medical_Doctor_80px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Pass_Fail_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Password_32px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Password_48px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Pharmacy_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.POS_Terminal_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Queue_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Save_32px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Schedule1_65px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Show_Password_32px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.sounds_effects_mall_announcement_48k_">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.User_Female_Skin_Type_1_2_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MabuhayClinicSystem.My.Resources.Resources.Username">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MabuhayClinicSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
